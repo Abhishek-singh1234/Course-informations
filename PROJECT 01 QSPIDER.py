@@ -17,7 +17,7 @@ if place == 'gurugram':
          press the number some 1,2,3,4,5  so,get the particular infrormation of the courses ''')
    print("\n")
 
-   course = int(input("enter the code  : "))
+   course = int(input("Enter the code  : "))
    if course == 1:
        print('''1.python fullstack :-
              
@@ -110,6 +110,7 @@ if place == 'gurugram':
 
 else:
    print("----Not a gurugram branch-----")
+
 
 
 
